@@ -1,6 +1,6 @@
 /*
  * 
- * Real time group editors without Operational transformation. (Oster et al, 2005)
+ * Collaborative editing without Operational transformation. (Oster et al, 2005)
  * Builds a sequence of characters, each with a globally unique id.
  * Consistency Model: PCI (precondition preservation, convergence, intention preservation).
  * Complexity for n operations:
